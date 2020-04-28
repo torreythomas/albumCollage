@@ -5,16 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title> Absolute Best Album's Gallery</title>
   <link rel="stylesheet" type="text/css" href="style.css">
-  <link href="https://fonts.googleapis.com/css?family=Monoton&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Merienda&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Long+Cang&display=swap" rel="stylesheet">
 </head>
 <body>
-  <h1> Favorite Album Gallery </h1>
+  <h1>  Indie Album Garden </h1>
 
-  <p> Welcome to my music gallery. As a music fanatic, I found it neccesary to put you on to some amazing masterpieces of music.</p>
-  <p> Enjoy.</p>
   <div class="container">
-  <a href="https://music.apple.com/us/album/when-we-all-fall-asleep-where-do-we-go/1450695723"><img src="./pics/billieeillish.jpg"></a>
+  <a href="https://music.apple.com/us/album/when-we-all-fall-asleep-where-do-we-go/1450695723"><img src="./pics/billieeillish.jpg">
+</a>
   <a href="https://music.apple.com/us/album/blonde/1146195596"> <img src="./pics/blonde.jpeg"></a>
   <a href="https://music.apple.com/us/album/bon-iver/438685974"><img src="./pics/boniver.jpg"></a>
   <a href="https://music.apple.com/us/album/channel-orange/1440760117"><img src="./pics/Channel_ORANGE.jpg"></a>

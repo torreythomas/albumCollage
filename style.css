@@ -1,26 +1,34 @@
 body{
     margin: 0px;
-    background-color: black;
     color: white;
 }
 
+html { 
+    background: url("../../grass.jpeg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 
 .container{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    text-align: center;
+    color: white;
 }
 
 
 h1{
-    font-family: 'Monoton', cursive;
-    border-color: black;
+   
+    border-color: white;
     font-size: 3em;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid white;
     width: 200;
     text-align: center;
-    box-shadow: 4px 4px 5px yellow;
     margin-top: 10px;
+    font-family: 'Bebas Neue', cursive;
 }
 
 img {
@@ -70,7 +78,7 @@ img:hover{
 
 
   a:hover{
-      background-color:yellow;
+      background-color:white;
       color: black;
   }
 
@@ -81,5 +89,13 @@ img:hover{
       color: white;
       text-align: center;
       font-size: 2rem;
-      font-family: 'Merienda', cursive;
+      font-family: 'Bebas Neue', cursive;
+
+  }
+
+  .centered:hover {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%, -40%);
   }
